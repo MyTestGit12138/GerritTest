@@ -4,4 +4,4 @@
 
 # 测试权限block2
 
-# 测试权限deny
+# 测试权限deny + exclusion
