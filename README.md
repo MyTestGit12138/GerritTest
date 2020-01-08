@@ -5,3 +5,5 @@
 # 测试权限block2
 
 # 测试权限deny + exclusion
+
+# 测试权限block3
